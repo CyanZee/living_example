@@ -1,0 +1,10 @@
+{
+	"m_mq_host":"localhost",
+	"m_mq_uname":"admin",
+	"m_mq_upwd":"123123",
+	"m_mq_que_name_proc_info":"taskProcess",
+	"m_file_storage_path":"/var/lib/tomcat8/webapps/structured-web",
+	"m_alg_img_dir_name":"result_pic",
+	"m_mq_que_name_in":"task-queue",
+	"m_mq_que_name_out":"ret-queue"
+}
