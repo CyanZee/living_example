@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mux", "mux\mux.vcxproj", "{00C32D92-BE6D-4B18-A09B-B57301B56BBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convert", "convert\convert.vcxproj", "{0A291F4C-A5D1-4196-8666-CBD2B91DC6A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mp4flie", "mp4flie\mp4flie.vcxproj", "{E0CC5CC8-6DCD-41AD-8D7C-B824DD6D4CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C32D92-BE6D-4B18-A09B-B57301B56BBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00C32D92-BE6D-4B18-A09B-B57301B56BBF}.Debug|Win32.Build.0 = Debug|Win32
+		{00C32D92-BE6D-4B18-A09B-B57301B56BBF}.Release|Win32.ActiveCfg = Release|Win32
+		{00C32D92-BE6D-4B18-A09B-B57301B56BBF}.Release|Win32.Build.0 = Release|Win32
+		{0A291F4C-A5D1-4196-8666-CBD2B91DC6A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A291F4C-A5D1-4196-8666-CBD2B91DC6A6}.Debug|Win32.Build.0 = Debug|Win32
+		{0A291F4C-A5D1-4196-8666-CBD2B91DC6A6}.Release|Win32.ActiveCfg = Release|Win32
+		{0A291F4C-A5D1-4196-8666-CBD2B91DC6A6}.Release|Win32.Build.0 = Release|Win32
+		{E0CC5CC8-6DCD-41AD-8D7C-B824DD6D4CC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0CC5CC8-6DCD-41AD-8D7C-B824DD6D4CC2}.Debug|Win32.Build.0 = Debug|Win32
+		{E0CC5CC8-6DCD-41AD-8D7C-B824DD6D4CC2}.Release|Win32.ActiveCfg = Release|Win32
+		{E0CC5CC8-6DCD-41AD-8D7C-B824DD6D4CC2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
