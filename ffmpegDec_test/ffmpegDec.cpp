@@ -116,14 +116,7 @@ int main(int argc, char *argv[]) {
                 printf("Succeed write one frame. \n");
             }
         }
+	av_free_packet(packet);
     }
-
-
-    
-
-
-
-
-
     return 0;
 }
